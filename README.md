@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **Laravel fremeworks**
+- 🌱 I’m currently learning **Laravel frameworks**
 
 - 💬 Ask me about **Php, Laravel, Vue JS**
 
