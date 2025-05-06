@@ -1,4 +1,4 @@
-<h1 align="center">This is my GitHub Readme Stats</h1>
+<h1 align="center">This is my GitHub Profile</h1>
 <h3 align="center">A passionate full stack laravel developer</h3>
 
 - 🔭 I’m currently working on **E-commerce Website**
